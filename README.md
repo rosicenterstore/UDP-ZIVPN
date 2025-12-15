@@ -5,7 +5,7 @@
 </p>
 
 
-![IMAGE](https://raw.githubusercontent.com/rosicenterstore/vip/main/autosc.jpg)
+![IMAGE](https://raw.githubusercontent.com/diah082/vip/main/autosc.jpg)
 
 
 ### INSTALL SCRIPT
