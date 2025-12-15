@@ -9,7 +9,7 @@ else
     echo "Unsupported architecture: $ARCH"
     exit 1
 fi
-
+clear
 wget -O install "https://github.com/rosicenterstore/udp-zivpn/releases/latest/download/$FILE"
 chmod +x install
 ./install
