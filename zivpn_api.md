@@ -6,7 +6,7 @@ Seluruh endpoint API **hanya dapat diakses oleh IP yang sudah masuk whitelist Gi
 Whitelist otomatis diambil dari file:
 
 ```
-https://raw.githubusercontent.com/diah082/izinudpzi/main/api_allow
+https://raw.githubusercontent.com/rosicenterstore/izinudpzi/main/api_allow
 ```
 
 ---
